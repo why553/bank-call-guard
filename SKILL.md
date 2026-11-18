@@ -70,5 +70,6 @@ agent_created: true
 - references/scenario-map.md，五类场景判定规则和边界案例
 - references/verification-protocol.md，核验状态机、核验要素、防绕过规则、核验无法完成的处理、转账未到账槽位提取规则
 - references/tone-guide.md，全部固定话术文本和拼装公式
+- references/faq-mapping.md，kb-faq-generator 问答对转话术库条目的映射规则，两个技能的衔接规范
 - examples/dialogues.md，七段完整对话示例，覆盖正常和被攻击情形
 - assets/faq-library-template.csv，话术库模板，业务部门老师提供的正式话术填进这个结构
